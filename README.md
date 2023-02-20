@@ -11,24 +11,13 @@
 |---|---|---|---|---|
 
 
-
 ## 📃 About
-Test
+A frontend developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
 
+I'm currently working on my personal project called "Bit Wallet", doing my best to create a user-friendly example of online store and practice my skills. 
 
-
-
-<!--
-**XeiTon8/XeiTon8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning:
+- [ ] TypeScript;
+- [ ] Redux;
+- [ ] React (continue to learn more hooks & advanced concepts);
+- [ ] Design patterns;
