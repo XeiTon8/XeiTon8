@@ -14,7 +14,7 @@
 ## 📃 About
 A frontend developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
 
-I'm currently working on my personal project called "Bit Wallet", doing my best to create a user-friendly example of online store and practice my skills. 
+I'm currently working on my <a href="https://github.com/XeiTon8/BitWallet">"Bit Wallet" project</a>, doing my best to create a user-friendly example of online store and practice my skills. 
 
 Currently learning:
 - [ ] TypeScript;
