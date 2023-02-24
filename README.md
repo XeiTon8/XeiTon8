@@ -2,12 +2,12 @@
 **Front-end developer**
 
 ## 🛠️ Skills
-| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |  Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev)   |
+| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |  TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |
 |---|---|---|---|---|
 
 
 ### Additional skills
-| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) |
+| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |
 |---|---|---|---|---|
 
 
