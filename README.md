@@ -2,8 +2,8 @@
 **Front-end developer**
 
 ## 🛠️ Skills
-| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)  |  TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |
-|---|---|---|---|---|
+| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |  ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   | Redux  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) | 
+|---|---|---|---|---|---|
 
 
 ### Additional skills
@@ -17,7 +17,7 @@ A frontend developer passionate about problem solving and creating beautiful, us
 I'm currently working on my <a href="https://github.com/XeiTon8/BitWallet">"Bit Wallet" project</a>, doing my best to create a user-friendly example of online store and practice my skills. 
 
 Currently learning:
-- [ ] TypeScript;
-- [ ] Redux;
+- [x] Basics of TypeScript;
+- [x] Basics of Redux;
 - [ ] React (continue to learn more hooks & advanced concepts);
 - [ ] Design patterns;
