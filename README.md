@@ -7,8 +7,8 @@
 
 
 ### Additional skills
-| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |
-|---|---|---|---|---|
+| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |  Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | 
+|---|---|---|---|---|---|
 
 
 ## 📃 About
