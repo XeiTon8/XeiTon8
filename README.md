@@ -20,4 +20,5 @@ Currently learning:
 - [x] Basics of TypeScript;
 - [x] Basics of Redux;
 - [ ] React (continue to learn more hooks & advanced concepts);
+- [ ] Angular;
 - [ ] Design patterns;
