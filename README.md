@@ -22,3 +22,4 @@ Currently learning:
 - [ ] React (continue to learn more hooks & advanced concepts);
 - [ ] Angular;
 - [ ] Design patterns;
+- [ ] Node.js
