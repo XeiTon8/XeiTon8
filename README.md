@@ -14,8 +14,6 @@
 ## 📃 About
 A frontend developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
 
-I'm currently working on my full-stack project, creating a user-friendly example of CRUD and practice my skills. 
-
 ### Projects
 1. <a href="https://github.com/XeiTon8/BitWallet">BitWallet</a> — an online-shop with busket, routing, search and authentication and carousel. 
 2. <a href="https://github.com/XeiTon8/MEAN-app">MEAN-app</a> — full-stack project with CRUD operations, real-time search, auth and routing. Developed for improving my Angular and building REST API skills. 
