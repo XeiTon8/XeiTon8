@@ -16,6 +16,6 @@ A developer passionate about problem solving and creating beautiful, useful web-
 
 ### Projects
 1. <a href="https://github.com/XeiTon8/BitWallet">BitWallet</a> — an online-shop with busket, routing, search and authentication and carousel. 
-2. <a href="https://github.com/XeiTon8/Customers-management-system">Customers Management System</a> — full-stack project with CRUD operations, real-time search, auth and routing. Developed for improving my Angular and building REST API skills. 
+2. <a href="https://github.com/XeiTon8/Customers-management-system">Customers Management System</a> — full-stack project with CRUD operations, real-time search, auth and routing. Developed for improving my knowledge of Angular and building REST API skills. 
 
 Currently working on 3rd project with React, Redux, MySQL, Node.js and Express. 
