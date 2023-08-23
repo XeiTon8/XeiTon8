@@ -12,7 +12,7 @@
 
 
 ## 📃 About
-A developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
+Self-taught developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
 
 ### Projects
 1. <a href="https://github.com/XeiTon8/BitWallet">BitWallet</a> — an online-shop with busket, routing, search and authentication and carousel. 
