@@ -7,8 +7,8 @@
 
 
 ### Additional skills
-| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |  Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | rxJS [![My Skills](https://skillicons.dev/icons?i=rxjs)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)| Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) |
-|---|---|---|---|---|---|---|---|---|
+| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |  Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | rxJS [![My Skills](https://skillicons.dev/icons?i=rxjs)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)| Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | MySQL [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
+|---|---|---|---|---|---|---|---|---|---|
 
 
 ## 📃 About
