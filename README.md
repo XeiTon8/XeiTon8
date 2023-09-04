@@ -20,5 +20,3 @@ Self-taught developer passionate about problem solving and creating beautiful, u
 
 3. <a href="https://github.com/XeiTon8/Dynamic-Books-Table">Dynamic Books Table</a> — a dynamic books table that fetches data from Google Books API and displays it. Includes breadcrumbs navigation, animation and showing additional info upon click.
 4. <a href="https://github.com/XeiTon8/Zen-Harmony">Zen Harmony</a> — fullstack project management system built with React, Redux on frontend and mySQL, Node.js, Express on backend. Includes notifications, dynamic calendar with events, real-time commentaries with web-sockets, and other features. 
-
-Currently working on 4th project with React, Redux, MySQL, Node.js and Express. 
