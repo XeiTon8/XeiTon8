@@ -2,7 +2,7 @@
 **Software developer**
 
 ## 🛠️ Skills
-| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |  ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   | Redux  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) | Angular & ngRx [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) | Java  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | Spring  [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
+| HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |  ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   | Redux  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) | Angular, ngRx [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) | Java  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | Spring  [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
 |---|---|---|---|---|---|---|---|---|
 
 
