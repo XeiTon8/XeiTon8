@@ -1,4 +1,4 @@
-# Vladyslav 
+# Vladislav 
 **Software developer**
 
 ## 🛠️ Skills
