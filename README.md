@@ -12,11 +12,11 @@
 
 
 ## 📃 About
-Self-taught developer passionate about problem solving and creating beautiful, useful web-sites/apps for users. 
+A developer specialized on building web applications with React/Angular. I have 1 year of non-commercial experience with front-end/backend and completed projects with different technologies listed above. 
 
 ### Projects
 1. <a href="https://github.com/XeiTon8/BitWallet">BitWallet</a> — an online-shop with busket, routing, search and authentication and carousel. 
-2. <a href="https://github.com/XeiTon8/Customers-management-system">Customers Management System</a> — full-stack project with CRUD operations, real-time search, auth and routing. Developed for improving my knowledge of Angular and building REST API skills.
+2. <a href="https://github.com/XeiTon8/Customers-management-system">Customers Management System</a> — full-stack project with CRUD operations, real-time search, auth and routing. Developed for improving my knowledge of Angular (directives, templates, modular architecture) and building REST API skills.
 3. <a href="https://github.com/XeiTon8/Dynamic-Books-Table">Dynamic Books Table</a> — a dynamic books table that fetches data from Google Books API and displays it. Includes breadcrumbs navigation, animation and showing additional info upon click.
 4. <a href="https://github.com/XeiTon8/Zen-Harmony">Zen Harmony</a> — fullstack project management system built with React, Redux on frontend and mySQL, Node.js, Express on backend. Includes notifications, dynamic calendar with events, real-time commentaries with web-sockets, and other features.
-5. <a href="https://github.com/XeiTon8/TripNext">TripNext</a> — fullstack flight tickets app built with Java and Angular. Used this to improve my problem-solving skills, learn Java basics and get better in Angular. 
+5. <a href="https://github.com/XeiTon8/TripNext">TripNext</a> — fullstack flight tickets app built with Java and Angular. Used this to improve my problem-solving skills, learn Java basics and improve existing skills in Angular. 
