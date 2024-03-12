@@ -1,5 +1,4 @@
-# Vladislav 
-**Software developer**
+# Software developer
 
 ## 🛠️ Skills
 | HTML [![My Skills](https://skillicons.dev/icons?i=html)](https://skillicons.dev)  | CSS [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) |  JavaScript   [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev) | TypeScript   [![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)   |  ReactJS  [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)   | Redux  [![My Skills](https://skillicons.dev/icons?i=redux)](https://skillicons.dev) | Next [![My Skills](https://skillicons.dev/icons?i=nextjs)](https://skillicons.dev) | Angular [![My Skills](https://skillicons.dev/icons?i=angular)](https://skillicons.dev) | Java  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | Spring  [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev) |
@@ -7,8 +6,8 @@
 
 
 ### Additional skills
-| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |  Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | rxJS [![My Skills](https://skillicons.dev/icons?i=rxjs)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)| Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | MySQL [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) |
-|---|---|---|---|---|---|---|---|---|---|
+| SASS [![My Skills](https://skillicons.dev/icons?i=sass)](https://skillicons.dev) | Git [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) | Webpack [![My Skills](https://skillicons.dev/icons?i=webpack)](https://skillicons.dev)   | Figma [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  | Jest [![My Skills](https://skillicons.dev/icons?i=jest)](https://skillicons.dev) |  Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | rxJS [![My Skills](https://skillicons.dev/icons?i=rxjs)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)| Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | MySQL [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev) | PHP [![My Skills](https://skillicons.dev/icons?i=php)](https://skillicons.dev)
+|---|---|---|---|---|---|---|---|---|---|---|
 
 
 ## 📃 About
