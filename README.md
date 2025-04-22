@@ -11,7 +11,7 @@
 
 
 ## 📃 About
-A developer specialized on building web applications with React/Angular. I have 1 year of commercial experience with front-end/backend and completed projects with different technologies listed above. My main developing skills include problem-solving by making theories and implementing code logic to overcome challenges, creating app architecture and constant improvement.
+A developer specialized on building web applications with React/Angular. I have 6 months of commercial experience with front-end/backend and completed projects with different technologies listed above. My main developing skills include problem-solving by making theories and implementing code logic to overcome challenges, creating app architecture and constant improvement.
 
 ### Projects
 1. <a href="https://github.com/XeiTon8/BitWallet">BitWallet</a> — an online-shop with busket, routing, search and authentication and carousel. 
