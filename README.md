@@ -9,7 +9,7 @@
 
 ### 🖧 Backend
 
-| Java [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev) | Spring [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)  | Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | Express [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) | PostgreSQL [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) | Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | Supabase [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) | Redis [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) |
+| Python [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) | FastAPI [![My Skills](https://skillicons.dev/icons?i=fastapi)](https://skillicons.dev)  | Node.js [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev) | Express [![My Skills](https://skillicons.dev/icons?i=express)](https://skillicons.dev) | PostgreSQL [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev) | MongoDB [![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev) | Firebase [![My Skills](https://skillicons.dev/icons?i=firebase)](https://skillicons.dev) | Supabase [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev) | Redis [![My Skills](https://skillicons.dev/icons?i=redis)](https://skillicons.dev) |
 |---|---|---|---|---|---|---|---|---|
 
 ### ⚒️ Tools
@@ -20,4 +20,4 @@
 
 
 ## 📃 About
-A developer specialized on building web applications with React/Angular. I have 1 year of commercial experience with front-end/backend. My main developing skills include problem-solving by making theories and implementing code logic to overcome challenges, creating app architecture and constant improvement.
+A developer specialized on building web applications with frontend/backend technologies. My main developing skills include problem-solving by making theories and implementing code logic to overcome challenges, creating app architecture and constant improvement.
