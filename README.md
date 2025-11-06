@@ -20,4 +20,4 @@
 
 
 ## 📃 About
-A developer specialized on building web applications with frontend/backend technologies. My main developing skills include problem-solving by making theories and implementing code logic to overcome challenges, creating app architecture and constant improvement.
+A developer specialized on building web applications with frontend/backend technologies.
